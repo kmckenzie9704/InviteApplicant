@@ -23,7 +23,7 @@ namespace InviteApplicant.Controllers
         [HttpGet]
         public string Get()
         {
-            string strInviteApplicant = "Invite Applicant";
+            string strInviteApplicant = "Invite Applicant to register for the system.";
 
             return strInviteApplicant;
 
